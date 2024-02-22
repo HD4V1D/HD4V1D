@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, my name is Hollman, nice to meet you.👋</h1>
+<h1 align="center">Hi, my name is Hollman, nice to meet you.👋</h1>
 
 <a href="https://gifyu.com/image/SCl0l"><img src="https://s13.gifyu.com/images/SCl0l.gif" alt="little" border="0" /></a>
 </div>
